@@ -20,3 +20,18 @@ Assets is anything that leaves and go to the memmory of the game. Needs the Engi
 
 Assets came with the AssetGroup helper. THat gives us collection operations, that the game uses to improve performance on loads and unloads.
 
+
+# HOW TO RUN
+```
+go run main.go
+```
+
+You going to need the following assets on resource:
+- basic_charakter_spritesheet.png
+- bg-music.mp3
+- grass.png
+
+Any image should do. I can't put those files here because I dont own them. I will try to find surrogates for it or create new ones myself. But for the time being, come to my discord server, and I can handle instructions on how to find the ones that I'm using currently.
+
+https://discord.gg/Z37zumVp
+
