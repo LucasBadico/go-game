@@ -1,4 +1,4 @@
-module example.raylib.gamedev/hello-world
+module example.raylib.gamedev
 
 go 1.23.0
 
