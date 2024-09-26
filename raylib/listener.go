@@ -1,8 +1,8 @@
 package raylib
 import (
 	rl "github.com/gen2brain/raylib-go/raylib"
-	"example.raylib.gamedev/hello-world/engine"
-	"example.raylib.gamedev/hello-world/engine/enum"
+	"example.raylib.gamedev/engine"
+	"example.raylib.gamedev/engine/enum"
 "fmt"
 	// "image/color"
 )

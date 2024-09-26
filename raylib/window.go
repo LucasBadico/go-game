@@ -3,7 +3,7 @@ package raylib
 import (
 	rl "github.com/gen2brain/raylib-go/raylib"
 	"fmt"
-	// "example.raylib.gamedev/hello-world/engine"
+	// "example.raylib.gamedev/engine"
 
 )
 

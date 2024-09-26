@@ -1,6 +1,6 @@
 package raylib
 import (
-	"example.raylib.gamedev/hello-world/engine"
+	"example.raylib.gamedev/engine"
 )
 
 
