@@ -22,10 +22,32 @@ Assets came with the AssetGroup helper. THat gives us collection operations, tha
 
 
 # HOW TO RUN
+## SETUP 
+### LINUX - confirmed only on UBUNTU, please open an issue with instructions for other distros
+```
+
+sudo apt install libgl1-mesa-dev
+sudo apt install libxi-dev
+sudo apt install libxinerama-dev
+sudo apt install libxrandr-dev
+sudo apt install libxcursor-dev
+sudo apt install libxkbcommon-dev
+sudo apt install libwayland-dev
+``` 
+
+### MACOS
+Just need install xcode and its CLI tools
+
+## How to run locally
 ```
 go run main.go
 ```
+## How to deploy
 
+<SOON> dont tested the build yet.
+
+
+# RESOURCES
 You going to need the following assets on resource:
 - basic_charakter_spritesheet.png
 - bg-music.mp3
