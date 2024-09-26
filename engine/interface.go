@@ -2,7 +2,7 @@ package engine
 
 import (
 	"image/color"
-	"example.raylib.gamedev/hello-world/engine/enum"
+	"example.raylib.gamedev/engine/enum"
 	
 )
 
